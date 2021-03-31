@@ -1,0 +1,5 @@
+- 🤘 Hi, I’m @roelarents
+- 🔬 I’m interested in JVM (Java, Kotlin), architecture, DevOps, go(lang), ORM(.net), cloud, IoT 
+- 📚 I’m currently learning more about k8s, golang and geo / gis
+- ䷬ I’m looking to collaborate on libs I encounter and use during my daily work
+- 📬 How to reach me? linkedin.com/in/roelarents
